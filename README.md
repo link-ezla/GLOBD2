@@ -148,7 +148,7 @@ proot-distro install ubuntu
 proot-distro login ubuntu
 ```
 ```
-apt-get update && apt-get full-upgrade upgrade -y
+apt-get update && apt-get full-upgrade -y
 ```
 ```
 apt install -y webp git ffmpeg curl imagemagick
